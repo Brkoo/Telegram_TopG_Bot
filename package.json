@@ -2,9 +2,9 @@
     "name": "Telegram_TopG_Bot",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "start.py",
     "scripts": {
-      "start": "node index.js"
+      "start": "python start.py"
     },
     "repository": {
       "type": "git",
